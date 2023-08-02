@@ -1,0 +1,16 @@
+body{
+    background: darkcyan;
+    text-align: center;
+}
+button{
+    background-color: rgba(42, 37, 218, 0.67);
+    border-radius: 5px;
+    border: solid 1px #9c5362;
+    color: aliceblue;
+    padding: 15px 20px;
+}
+.cats{
+    width: 400px;
+    height: 300px;
+
+}
